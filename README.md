@@ -1,2 +1,3 @@
-# Probability-And-Measure.github.io
+# Probability-And-Measure
 A page for Measure Theoretic Probability
+---
